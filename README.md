@@ -66,7 +66,7 @@ To run the app locally on your computer:
 ```bash
 # 1. Clone this repository
 git clone https://github.com/Developer-Linus/Agrigrow_Fertilizer_Recommender.git
-cd agrigrow-fertilizer-recommender
+cd Agrigrow_Fertilizer_Recommender
 
 # 2. Install required packages
 pip install -r requirements.txt
