@@ -1,6 +1,3 @@
----
-
-```markdown
 # AgriGrow Fertilizer Recommender 🌱
 
 A simple, easy-to-use fertilizer recommendation tool for African farmers. Powered by **Streamlit**, this application helps you choose the right fertilizer based on your local farm conditions.
