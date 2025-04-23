@@ -105,11 +105,8 @@ Want to improve the tool? Contributions are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
 Made with ❤️ for African farmers
 ```
----
