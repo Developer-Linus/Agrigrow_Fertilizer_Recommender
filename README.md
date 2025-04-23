@@ -1,5 +1,3 @@
-Here's a simple and cleanly formatted `README.md` designed for your **AgriGrow Fertilizer Recommender** project. It's written with accessibility and clarity in mind, especially for local African farmers and their cooperative support teams.
-
 ---
 
 ```markdown
@@ -11,7 +9,7 @@ A simple, easy-to-use fertilizer recommendation tool for African farmers. Powere
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Features](#features)
@@ -114,3 +112,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 Made with ❤️ for African farmers
 ```
+---
